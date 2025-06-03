@@ -1,5 +1,7 @@
 # 📊 Task 6: Sales Trend Analysis Using Aggregations (MySQL)
 
+![Sales Trend Result](ss.png)
+
 ## 🎯 Objective
 Analyze **monthly revenue** and **order volume** using SQL aggregation functions.
 
